@@ -1,4 +1,4 @@
-package org.uniquindio.edu.co.poo;
+package org.uniquindio.edu.co.poo.app;
 
 public class Main {
     public static void main(String[] args) {
