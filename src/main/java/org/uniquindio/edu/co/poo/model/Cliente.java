@@ -15,6 +15,7 @@ public class Cliente extends Usuario{
         this.codigo = codigo;
     }
 //metodoToString
+//mi gebteeeeeeeeeeeeeeeee
     
     @Override
     public String toString(){
