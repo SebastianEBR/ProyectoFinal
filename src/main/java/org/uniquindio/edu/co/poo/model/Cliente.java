@@ -14,7 +14,7 @@ public class Cliente extends Usuario{
         super(nombre, edad, id);
         this.codigo = codigo;
     }
-
+//metodoToString
     @Override
     public String toString(){
         return "Client: "        +
